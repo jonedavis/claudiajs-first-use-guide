@@ -1,4 +1,4 @@
-# A guide on deploying a AWS Lambda function using Claudia.js
+# A guide on deploying an AWS Lambda function using Claudia.js
 
 This repository is a starting point to using [Claudia](https://claudiajs.com/) as a deployment utility for AWS Lambda.
 
